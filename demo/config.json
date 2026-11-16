@@ -1,0 +1,12 @@
+{
+  "doip_entity": [
+    {
+      "name": "tbox",
+      "source_ip": "127.0.0.1",
+      "target_ip": "127.0.0.1",
+      "source_address": "0x0E00",
+      "target_address": "0x0E80",
+      "routing_activation_type": "0x00"
+    }
+  ]
+}
